@@ -89,11 +89,7 @@ http://localhost:5000/v1/book/<search_query>
 
 For Romance Genre
 
-[http://localhost:8080/#/romance](http://localhost:8080/#/romance) 
-& 
-[http://localhost:8080/#/show romance books](http://localhost:8080/#/show romance books)
-
-Gives same results
+http://localhost:8080/#/romance  & (http://localhost:8080/#/show romance books) gives same results
 
 For Science Fiction
 
